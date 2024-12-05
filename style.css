@@ -1,0 +1,24 @@
+body {
+    font-family: 'Open Sans', 'Myriad Pro', 'Myriad', sans-serif;
+    font-size: 18px;
+    line-height: 160%;
+    color: #1d1313;
+    max-width: 700px;
+    margin: auto;
+}
+
+.num {
+    font-size   : 16px;
+    display     : inline-block;
+    width       : 60px;
+    margin-right: 16px;
+}
+
+img {
+    width: 100%;
+}
+
+
+.wrapper {
+    padding: 32px;
+}
